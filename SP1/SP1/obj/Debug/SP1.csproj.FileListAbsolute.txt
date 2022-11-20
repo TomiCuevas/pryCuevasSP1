@@ -1,0 +1,12 @@
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP1\SP1\bin\Debug\SP1.exe.config
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP1\SP1\bin\Debug\SP1.exe
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP1\SP1\bin\Debug\SP1.pdb
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP1\SP1\obj\Debug\SP1.csproj.AssemblyReference.cache
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP1\SP1\obj\Debug\SP1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP1\SP1\obj\Debug\SP1.frmInicio.resources
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP1\SP1\obj\Debug\SP1.frmLogin.resources
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP1\SP1\obj\Debug\SP1.Properties.Resources.resources
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP1\SP1\obj\Debug\SP1.csproj.GenerateResource.cache
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP1\SP1\obj\Debug\SP1.csproj.CoreCompileInputs.cache
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP1\SP1\obj\Debug\SP1.exe
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP1\SP1\obj\Debug\SP1.pdb
